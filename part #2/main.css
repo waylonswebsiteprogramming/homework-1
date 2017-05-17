@@ -1,0 +1,34 @@
+body {
+    margin:0;
+    padding: 0;
+}
+
+.red{
+  background: red;
+  height: 100px;
+}
+
+#blue{
+  background: blue; 
+}
+
+#purple{
+  background: purple;
+}
+
+#yellow{
+  background: yellow;
+}
+
+.green{
+  background: green;
+  height: 600px;
+}
+
+.floating-box{
+  display: floating-box;
+  width: 33.3%;
+  height: 500px;
+  float: left;
+  margin: 0px;
+}
