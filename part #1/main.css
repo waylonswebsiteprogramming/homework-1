@@ -3,11 +3,13 @@
 	width:946px;
 	background-color: red;
 }
+
 .outer {
 	height: 1074px;
 	width: 946px;
 	background-color: yellow;
 }
+
 .center {
 	height: 875px;
 	width: 663px;
@@ -15,6 +17,7 @@
 	margin-right: 140px;
 	background-color: blue;
 }
+
 #bottom {
 	height: 74px;
 	width: 663px;
